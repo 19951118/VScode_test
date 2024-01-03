@@ -7,7 +7,7 @@
     elsif num % 3 == 0
       "fizz"
     else
-      "該当なし"
+      "#{num}の場合該当なし"
     end
   end
   
