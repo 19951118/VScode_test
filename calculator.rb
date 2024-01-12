@@ -1,3 +1,4 @@
+#簡単な四則演算の電卓
 def add(x, y)
   x + y
 end
